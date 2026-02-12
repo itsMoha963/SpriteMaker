@@ -1,1 +1,4 @@
 .vscode/
+game.dSYM/
+main.dSYM/
+main.code-workspace
