@@ -1,4 +1,7 @@
 .vscode/
+game
 game.dSYM/
 main.dSYM/
 main.code-workspace
+*.o
+*.dll
