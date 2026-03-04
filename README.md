@@ -5,3 +5,17 @@ SpriteMaker is a simple yet powerful pixel art editor where you can create and c
 
 ## drawing with different colors
 ![image2](https://github.com/itsMoha963/SpriteMaker/blob/main/images/SCR-20260211-tgao-3.png?raw=true)
+
+## TODO
+
+### P0 (must)
+- [ ] Undo / redo
+- [ ] Eraser
+- [ ] Create / Save Files
+
+### P1 (should)
+- [ ] Fill bucket
+- [ ] Color wheel instead of buttons
+
+### P2 (nice to have)
+- [ ] Layers
